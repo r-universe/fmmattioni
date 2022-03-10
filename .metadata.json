@@ -6,5 +6,9 @@
   {
     "package": "metabolic",
     "oncran": true
+  },
+  {
+    "package": "whippr",
+    "oncran": true
   }
 ]

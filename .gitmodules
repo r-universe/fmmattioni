@@ -13,3 +13,8 @@
 	url = https://github.com/fmmattioni/metabolic
 	shallow = true
 	registered = true
+[submodule "whippr"]
+	path = whippr
+	url = https://github.com/fmmattioni/whippr
+	shallow = true
+	registered = true
