@@ -3,16 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "downloadthis"]
-	path = downloadthis
-	url = https://github.com/fmmattioni/downloadthis
-	shallow = true
-	registered = true
-[submodule "metabolic"]
-	path = metabolic
-	url = https://github.com/fmmattioni/metabolic
-	shallow = true
-	registered = true
 [submodule "whippr"]
 	path = whippr
 	url = https://github.com/fmmattioni/whippr

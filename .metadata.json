@@ -1,13 +1,5 @@
 [
   {
-    "package": "downloadthis",
-    "oncran": true
-  },
-  {
-    "package": "metabolic",
-    "oncran": true
-  },
-  {
     "package": "whippr",
     "oncran": true
   }
