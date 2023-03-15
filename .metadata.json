@@ -1,6 +1,6 @@
 [
   {
-    "package": "downloadthis",
+    "package": "whippr",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "whippr",
+    "package": "downloadthis",
     "oncran": true
   }
 ]
