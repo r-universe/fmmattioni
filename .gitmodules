@@ -8,6 +8,11 @@
 	url = https://github.com/fmmattioni/downloadthis
 	shallow = true
 	registered = true
+[submodule "lactater"]
+	path = lactater
+	url = https://github.com/fmmattioni/lactater
+	shallow = true
+	registered = true
 [submodule "metabolic"]
 	path = metabolic
 	url = https://github.com/fmmattioni/metabolic

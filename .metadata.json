@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "lactater",
+    "oncran": true
+  },
+  {
     "package": "metabolic",
     "oncran": true
   },
